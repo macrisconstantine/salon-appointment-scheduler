@@ -1,3 +1,3 @@
 # salon-appointment-scheduler
-- Bash script that provides user with a selection menu of services provided by the salon.
-- Database has table to store customers, services, and appointments. 
+- The bash script provides the user with a selection menu of services provided by the salon.
+- The associated database has tables to store customers, services, and appointments. 
